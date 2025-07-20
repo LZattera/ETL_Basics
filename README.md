@@ -51,6 +51,8 @@ A pasta data/ready será criada automaticamente, se não existir
 Se nenhum arquivo válido for encontrado em data/raw, o script exibirá uma mensagem de aviso
 Os arquivos de entrada devem conter ao menos a coluna utm_link
 
+**importante** No arquivo gitignore tem que descomentar a linha 10 que não sobre os arquivos da pasta raw, não se pode subir os arquivos base para nuvem ou software de versionamento pois isso causa uma falha de segurança.
+
 # Melhorias futuras
 Suporte a arquivos .csv
 Validação de colunas obrigatórias
