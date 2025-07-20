@@ -2,15 +2,6 @@
 
 Este projeto em Python automatiza a leitura, tratamento e consolidação de múltiplos arquivos `.xlsx` que contêm dados de campanhas de marketing digital de diferentes países.
 
-# Estrutura de Diretórios
-
-├── .venv/ # Ambiente virtual (opcional)
-├── src/
-│ ├── data/
-│ │ ├── raw/ # Coloque aqui os arquivos .xlsx de entrada
-│ │ └── ready/ # Aqui será salvo o arquivo Excel consolidado e limpo
-│ └── main.py # Script principal do projeto
-
 # Funcionalidades
 
 - Lê múltiplos arquivos `.xlsx` da pasta `data/raw`
