@@ -11,7 +11,6 @@ Este projeto em Python automatiza a leitura, tratamento e consolidação de múl
 │ | └── ready/ # Aqui será salvo o arquivo Excel consolidado e limpo
 │ └── main.py # Script principal do projeto
 
-
 # Funcionalidades
 
 - Lê múltiplos arquivos `.xlsx` da pasta `data/raw`
