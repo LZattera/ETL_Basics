@@ -4,11 +4,11 @@ Este projeto em Python automatiza a leitura, tratamento e consolidação de múl
 
 # Estrutura de Diretórios
 
-├── .venv/ # Ambiente virtual
-├── src
-| ├── data
-│ | ├── raw/ # Coloque aqui os arquivos .xlsx de entrada
-│ | └── ready/ # Aqui será salvo o arquivo Excel consolidado e limpo
+├── .venv/ # Ambiente virtual (opcional)
+├── src/
+│ ├── data/
+│ │ ├── raw/ # Coloque aqui os arquivos .xlsx de entrada
+│ │ └── ready/ # Aqui será salvo o arquivo Excel consolidado e limpo
 │ └── main.py # Script principal do projeto
 
 # Funcionalidades
