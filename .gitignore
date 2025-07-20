@@ -6,6 +6,9 @@ __pycache__/
 # C extensions
 *.so
 
+# para quando for subir no github não pode subir os arquivos então descomente essa linha
+#src/data/raw
+
 # Distribution / packaging
 .Python
 build/
